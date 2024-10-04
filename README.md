@@ -40,10 +40,9 @@ Installation:
 
 1. Clone the repository:
 
-   git clone https://github.com/yourusername/domain-security-scanner.git
-   cd domain-security-scanner
+   git clone https://github.com/Chirag101108/domain-scanner
 
-2. Install the required dependencies:
+3. Install the required dependencies:
 
    pip install -r requirements.txt
 
@@ -53,7 +52,7 @@ Installation:
    - tqdm
    - concurrent.futures (for Python < 3.2)
 
-3. (Optional) Install additional dependencies on Debian/Ubuntu:
+4. (Optional) Install additional dependencies on Debian/Ubuntu:
 
    sudo apt-get install python3-dev gcc libssl-dev
 
